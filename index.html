@@ -273,6 +273,64 @@
       margin-top: 0.25rem;
     }
 
+    /* NEWSLETTER */
+    .newsletter {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+    .newsletter h2 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+    .newsletter p {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin-bottom: 1.25rem;
+    }
+    .newsletter-form {
+      display: flex;
+      gap: 0.5rem;
+      max-width: 440px;
+      margin: 0 auto;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .newsletter-form input[type="email"] {
+      flex: 1;
+      min-width: 220px;
+      padding: 0.7rem 1rem;
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      background: var(--surface);
+      color: var(--text);
+      font-size: 0.875rem;
+      outline: none;
+    }
+    .newsletter-form input[type="email"]:focus {
+      border-color: var(--amber);
+    }
+    .newsletter-form button {
+      background: var(--amber);
+      color: #000;
+      font-weight: 700;
+      font-size: 0.8rem;
+      padding: 0.7rem 1.25rem;
+      border-radius: 3px;
+      border: none;
+      cursor: pointer;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .newsletter-form button:hover { opacity: 0.88; }
+    .newsletter-note {
+      font-size: 0.75rem;
+      color: var(--muted);
+      margin-top: 0.75rem;
+    }
+
     /* CONTACT */
     .contact {
       max-width: 680px;
@@ -470,6 +528,19 @@
       The lighting business is the proof of concept. The systems business is the wealth vehicle.
     </p>
   </section>
+
+  <!-- NEWSLETTER -->
+  <section class="newsletter">
+    <h2>One lesson from the field, every week</h2>
+    <p>What I'm learning about running a contracting business — pricing, systems, and the stuff nobody teaches you. Short, practical, no spam.</p>
+    <form class="newsletter-form" action="https://app.kit.com/forms" method="post">
+      <input type="email" name="email_address" placeholder="your@email.com" required />
+      <button type="submit">Subscribe</button>
+    </form>
+    <p class="newsletter-note">Free. Unsubscribe anytime. I'll never share your email.</p>
+  </section>
+
+  <hr class="divider" />
 
   <!-- CONTACT -->
   <section class="contact" id="contact">
