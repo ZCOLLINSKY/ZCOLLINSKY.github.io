@@ -4,51 +4,107 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Zach Collins — Contractor. Builder. Veteran. | Central Kentucky</title>
-  <meta name="description" content="Veteran-owned outdoor lighting contractor in Central Kentucky. Builder of LightDeck, the AI proposal tool for contractors. Free community for home service pros." />
-  <meta name="keywords" content="Zach Collins, outdoor lighting, contractor tools, LightDeck, Evening Glow LLC, Central Kentucky, veteran-owned, contractor business, landscape lighting" />
-  <link rel="canonical" href="https://zachcollins.me" />
+  <meta name="description" content="Veteran-owned outdoor lighting contractor in Central Kentucky. Builder of LightDeck, the AI proposal tool for contractors. Sharing the build in public on YouTube." />
+  <link rel="canonical" href="https://zachcollins.me/" />
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://zachcollins.me" />
+  <meta property="og:url" content="https://zachcollins.me/" />
   <meta property="og:title" content="Zach Collins — Contractor. Builder. Veteran." />
   <meta property="og:description" content="Solo operator in Central Kentucky. Running Evening Glow LLC in the field, shipping LightDeck for contractors, and teaching what I learn along the way." />
   <meta property="og:site_name" content="Zach Collins" />
   <meta property="og:locale" content="en_US" />
+  <meta property="og:image" content="https://zachcollins.me/og-zachcollins.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Zach Collins — Contractor. Builder. Veteran. zachcollins.me" />
   <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Zach Collins — Contractor. Builder. Veteran." />
   <meta name="twitter:description" content="Solo operator in Central Kentucky. Running Evening Glow LLC in the field, shipping LightDeck for contractors, and teaching what I learn along the way." />
+  <meta name="twitter:image" content="https://zachcollins.me/og-zachcollins.png" />
   <!-- Favicon -->
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>" />
   <!-- Schema.org structured data -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "Zach Collins",
-    "url": "https://zachcollins.me",
-    "jobTitle": "Contractor & Founder",
-    "description": "Veteran-owned outdoor lighting contractor and founder of LightDeck, the AI proposal tool for contractors.",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Nicholasville",
-      "addressRegion": "KY",
-      "addressCountry": "US"
-    },
-    "sameAs": [
-      "https://linkedin.com/in/zachcollins",
-      "https://youtube.com/@EveningGlowLLC",
-      "https://facebook.com/Eveningglowllc",
-      "https://instagram.com/eveningglowllc",
-      "https://lightdeck.tech",
-      "https://eveningglowllc.com"
-    ],
-    "worksFor": {
-      "@type": "Organization",
-      "name": "Evening Glow LLC",
-      "url": "https://eveningglowllc.com"
-    },
-    "knowsAbout": ["outdoor lighting", "landscape lighting", "contractor business systems", "AI tools for contractors"]
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://zachcollins.me/#person",
+        "name": "Zach Collins",
+        "url": "https://zachcollins.me/",
+        "jobTitle": "Contractor & Founder",
+        "description": "Veteran-owned outdoor lighting contractor and founder of LightDeck, the AI proposal tool for contractors.",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Nicholasville",
+          "addressRegion": "KY",
+          "addressCountry": "US"
+        },
+        "sameAs": [
+          "https://linkedin.com/in/zachcollins",
+          "https://youtube.com/@EveningGlowLLC",
+          "https://facebook.com/Eveningglowllc",
+          "https://instagram.com/eveningglowllc",
+          "https://lightdeck.tech",
+          "https://www.eveningglowllc.com"
+        ],
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Evening Glow LLC",
+          "url": "https://www.eveningglowllc.com"
+        },
+        "knowsAbout": ["outdoor lighting", "landscape lighting", "contractor business systems", "AI tools for contractors"]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://zachcollins.me/#website",
+        "name": "Zach Collins",
+        "url": "https://zachcollins.me/",
+        "description": "Veteran-owned outdoor lighting contractor in Central Kentucky. Builder of LightDeck, the AI proposal tool for contractors.",
+        "publisher": { "@id": "https://zachcollins.me/#person" },
+        "inLanguage": "en-US"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://zachcollins.me/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Who is Zach Collins?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A U.S. Army veteran and outdoor lighting contractor in Central Kentucky. I run Evening Glow LLC, a landscape lighting company serving Lexington, Nicholasville, and the surrounding counties, and I build LightDeck, an AI proposal tool for contractors."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is Evening Glow LLC?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A veteran-owned landscape and outdoor lighting company serving Lexington, Nicholasville, and Central Kentucky. Design, installation, and a free after-dark demo on your own property before you commit. Call or text (859) 403-3303 or visit eveningglowllc.com."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What is LightDeck?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An AI-powered estimating and proposal tool for outdoor lighting contractors. Proposals that took me 3+ hours by hand now take about 8 minutes. Founding pricing is $49/month at lightdeck.tech."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I get in touch with Zach Collins?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Email ZC@EveningGlowLLC.com. For landscape lighting installs in Central Kentucky, go through eveningglowllc.com or call or text (859) 403-3303."
+            }
+          }
+        ]
+      }
+    ]
   }
   </script>
   <style>
@@ -246,6 +302,13 @@
       font-size: 0.975rem;
     }
     .about p strong { color: var(--text); }
+    .faq h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      margin: 1.75rem 0 0.4rem;
+      letter-spacing: -0.01em;
+    }
+    .faq h3:first-of-type { margin-top: 0.5rem; }
 
     /* STATS BAR */
     .stats {
@@ -449,7 +512,7 @@
           Pathway systems, architectural uplighting, Christmas lighting. Veteran-owned.
           Installed right the first time.
         </p>
-        <a href="mailto:ZC@EveningGlowLLC.com" class="track-link">Learn More →</a>
+        <a href="https://www.eveningglowllc.com" class="track-link">Learn More →</a>
       </div>
 
       <div class="track-card">
@@ -520,8 +583,8 @@
       That constraint turned out to be a feature.
     </p>
     <p>
-      Now I'm sharing what I've learned along the way — through a free community,
-      YouTube, and some tools I've put together that I think other contractors would find useful.
+      Now I'm sharing what I've learned along the way — on YouTube, and through
+      some tools I've put together that I think other contractors would find useful.
     </p>
     <p>
       I'm not building a startup. I'm building an empire — bootstrapped, permanent, cash-flowing.
@@ -538,6 +601,39 @@
       <button type="submit">Subscribe</button>
     </form>
     <p class="newsletter-note">Free. Unsubscribe anytime. I'll never share your email.</p>
+  </section>
+
+  <hr class="divider" />
+
+  <!-- FAQ -->
+  <section class="about faq" id="faq">
+    <h2>Quick answers</h2>
+    <h3>Who is Zach Collins?</h3>
+    <p>
+      A U.S. Army veteran and outdoor lighting contractor in Central Kentucky. I run
+      Evening Glow LLC, a landscape lighting company serving Lexington, Nicholasville,
+      and the surrounding counties, and I build LightDeck, an AI proposal tool for contractors.
+    </p>
+    <h3>What is Evening Glow LLC?</h3>
+    <p>
+      A veteran-owned landscape and outdoor lighting company serving Lexington, Nicholasville,
+      and Central Kentucky. Design, installation, and a free after-dark demo on your own property
+      before you commit. Call or text <a href="tel:+18594033303">(859) 403-3303</a> or visit
+      <a href="https://www.eveningglowllc.com">eveningglowllc.com</a>.
+    </p>
+    <h3>What is LightDeck?</h3>
+    <p>
+      An AI-powered estimating and proposal tool for outdoor lighting contractors. Proposals
+      that took me 3+ hours by hand now take about 8 minutes. Founding pricing is $49/month
+      at <a href="https://lightdeck.tech">lightdeck.tech</a>.
+    </p>
+    <h3>How do I get in touch with Zach Collins?</h3>
+    <p>
+      Email <a href="mailto:ZC@EveningGlowLLC.com">ZC@EveningGlowLLC.com</a>. For landscape
+      lighting installs in Central Kentucky, go through
+      <a href="https://www.eveningglowllc.com">eveningglowllc.com</a> or call or text
+      <a href="tel:+18594033303">(859) 403-3303</a>.
+    </p>
   </section>
 
   <hr class="divider" />
