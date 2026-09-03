@@ -15,4 +15,4 @@
 - He built LightDeck for his own lighting business first, then shipped it for other contractors.
 - Everything is built solo, bootstrapped, in a roughly 2.5-hour daily work window.
 
-_Last updated: 2026-07-11_
+_Last updated: 2026-09-03_
