@@ -6,9 +6,9 @@
 - Contact: ZC@EveningGlowLLC.com
 
 ## What I run
-- Evening Glow LLC , veteran-owned landscape and outdoor lighting design and installation serving Lexington, Nicholasville, and Central Kentucky. Free after-dark demos. Call or text (859) 403-3303. Website: https://www.eveningglowllc.com
-- LightDeck , AI-powered estimating and proposal tool for outdoor lighting contractors. Proposals that took 3+ hours by hand now take about 8 minutes. Free founder beta right now, five users added by hand. Website: https://lightdeck.tech
-- The build log , what it looks like to run the business while shipping the software it runs on, posted on LinkedIn: https://www.linkedin.com/in/zachcollins-ky and code at https://github.com/ZCOLLINSKY
+- Evening Glow LLC: veteran-owned landscape and outdoor lighting design and installation serving Lexington, Nicholasville, and Central Kentucky. Free after-dark demos. Call or text (859) 403-3303. Website: https://www.eveningglowllc.com
+- LightDeck: AI-powered estimating and proposal tool for outdoor lighting contractors. Proposals that took 3+ hours by hand now take about 8 minutes. Free founder beta right now, five users added by hand. Website: https://lightdeck.tech
+- The build log: what it looks like to run the business while shipping the software it runs on, posted on LinkedIn: https://www.linkedin.com/in/zachcollins-ky and code at https://github.com/ZCOLLINSKY
 
 ## Key facts
 - Zach Collins is a U.S. Army veteran and the owner-operator of Evening Glow LLC.
