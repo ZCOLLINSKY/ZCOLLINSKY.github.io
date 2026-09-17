@@ -1,18 +1,21 @@
 # Zach Collins
-> U.S. Army veteran, outdoor lighting contractor in Central Kentucky, and builder of LightDeck, the AI proposal tool for contractors.
+> Founder and developer of LightDeck, owner of Evening Glow, and U.S. Army veteran in Lexington, Kentucky.
 
-- Who: Zach Collins, veteran, solo operator based in Lexington, Kentucky.
-- Website: https://zachcollins.me/
-- Contact: ZC@EveningGlowLLC.com
+## Work
+- LightDeck: software for landscape-lighting contractors. JavaScript, Supabase/Postgres, and Vercel. Connects property photos, fixture plans, contractor-set pricing, and proposal preparation.
+- Zach works across product requirements, application logic, database design, automated testing, and release verification. He uses AI development tools and focuses on validated model output, structured source data, and human review.
+- Current scope, September 2026: closed, free, founder-supported beta for private field capture and proposal, PDF, and invoice drafts. Customer publishing, messages, payments, signatures, and generated night concepts are not enabled for beta walkthroughs.
+- Evening Glow: outdoor lighting design and installation in Central Kentucky. Its field work informs LightDeck product decisions.
 
-## What I run
-- Evening Glow LLC: veteran-owned landscape and outdoor lighting design and installation serving Lexington, Nicholasville, and Central Kentucky. Free after-dark demos. Call or text (859) 403-3303. Website: https://www.eveningglowllc.com
-- LightDeck: AI-powered estimating and proposal tool for outdoor lighting contractors. Proposals that took 3+ hours by hand now take about 8 minutes. Free founder beta right now, five users added by hand. Website: https://lightdeck.tech
-- The build log: what it looks like to run the business while shipping the software it runs on, posted on LinkedIn: https://www.linkedin.com/in/zachcollins-ky and code at https://github.com/ZCOLLINSKY
+## Links
+- Founder site: https://zachcollins.me/
+- LightDeck: https://www.lightdeck.tech/
+- Evening Glow: https://www.eveningglowllc.com/
+- GitHub: https://github.com/ZCOLLINSKY
+- Architecture: https://github.com/ZCOLLINSKY/lightdeck-architecture
+- Postgres patterns: https://github.com/ZCOLLINSKY/supabase-production-patterns
+- LinkedIn: https://www.linkedin.com/in/zachcollins-ky/
 
-## Key facts
-- Zach Collins is a U.S. Army veteran and the owner-operator of Evening Glow LLC.
-- He built LightDeck for his own lighting business first, then shipped it for other contractors.
-- Everything is built solo, bootstrapped, in a roughly 2.5-hour daily work window.
+Public engineering repositories are September 3, 2026 snapshots. Source notes distinguish implementation, design, and deployment status; they do not imply all described features are enabled in the current beta.
 
-_Last updated: 2026-09-03_
+Last updated: 2026-09-16.
