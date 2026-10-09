@@ -4,7 +4,7 @@
 ## Work
 - LightDeck: software for landscape-lighting contractors. JavaScript, Supabase/Postgres, and Vercel. Connects property photos, fixture plans, contractor-set pricing, and proposal preparation.
 - Zach works across product requirements, application logic, database design, automated testing, and release verification. He uses AI development tools and focuses on validated model output, structured source data, and human review.
-- Current scope, September 2026: closed, free, founder-supported beta for private field capture and proposal, PDF, and invoice drafts. Customer publishing, messages, payments, signatures, and generated night concepts are not enabled for beta walkthroughs.
+- Last documented beta scope, September 2026: closed, free, founder-supported beta for private field capture and proposal, PDF, and invoice drafts. Customer publishing, messages, payments, signatures, and generated night concepts were not enabled in that documented beta walkthrough.
 - Evening Glow: outdoor lighting design and installation in Central Kentucky. Its field work informs LightDeck product decisions.
 
 ## Links
@@ -15,7 +15,10 @@
 - Architecture: https://github.com/ZCOLLINSKY/lightdeck-architecture
 - Postgres patterns: https://github.com/ZCOLLINSKY/supabase-production-patterns
 - LinkedIn: https://www.linkedin.com/in/zachcollins-ky/
+- X: https://x.com/EveningGlow859
+- Hugging Face: https://huggingface.co/zachcollins89
+- Microsoft Learn: https://learn.microsoft.com/en-us/users/zachcollinsky/
 
 Public engineering repositories are September 3, 2026 snapshots. Source notes distinguish implementation, design, and deployment status; they do not imply all described features are enabled in the current beta.
 
-Last updated: 2026-09-16.
+Last updated: 2026-10-09.
