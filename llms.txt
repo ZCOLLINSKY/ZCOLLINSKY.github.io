@@ -7,6 +7,12 @@
 - Last documented beta scope, September 2026: closed, free, founder-supported beta for private field capture and proposal, PDF, and invoice drafts. Customer publishing, messages, payments, signatures, and generated night concepts were not enabled in that documented beta walkthrough.
 - Evening Glow: outdoor lighting design and installation in Central Kentucky. Its field work informs LightDeck product decisions.
 
+## Work with Zach
+- Paid contractor workflow reviews for software and AI teams serving contractors, and service-business owners with a specific process to improve.
+- Initial scope: one inquiry-to-quote workflow; deliverables are a process map, prioritized findings, a scope checklist and a handoff discussion.
+- Scope and fee are agreed before work begins. Implementation is scoped separately.
+- Contact: zc@eveningglowllc.com. For current LightDeck access information, visit the product website.
+
 ## Links
 - Founder site: https://zachcollins.me/
 - LightDeck: https://www.lightdeck.tech/
@@ -21,4 +27,4 @@
 
 Public engineering repositories are September 3, 2026 snapshots. Source notes distinguish implementation, design, and deployment status; they do not imply all described features are enabled in the current beta.
 
-Last updated: 2026-10-09.
+Last updated: 2026-10-11.
